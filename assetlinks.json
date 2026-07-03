@@ -7,5 +7,15 @@
       "sha256_cert_fingerprints":
         ["89:9E:D5:52:E5:43:BA:3F:4A:93:54:C7:91:10:51:A9:EE:A5:71:EA:23:2F:7D:80:6C:2D:05:EE:F4:26:47:44"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.prsd503.lifecraft",
+      "sha256_cert_fingerprints": [
+        "A3:15:0D:CB:2A:E4:DA:4C:FF:98:A9:2A:22:C2:67:67:12:85:E9:5C:8B:C6:19:68:D5:0A:48:33:0F:41:78:A7"
+      ]
+    }
   }
 ]
