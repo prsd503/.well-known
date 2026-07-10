@@ -8,6 +8,17 @@
         ["89:9E:D5:52:E5:43:BA:3F:4A:93:54:C7:91:10:51:A9:EE:A5:71:EA:23:2F:7D:80:6C:2D:05:EE:F4:26:47:44"]
     }
   },
+
+{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.prsd503.ow",
+        "sha256_cert_fingerprints": ["D3:18:6A:B6:A5:EC:71:35:2D:0E:54:B1:20:B0:57:FF:97:62:7D:B8:FA:83:6C:76:28:07:C8:7A:77:30:EF:E3"]
+      }
+    },
+
+  
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
