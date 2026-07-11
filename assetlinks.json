@@ -13,8 +13,8 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.prsd503.ow",
-        "sha256_cert_fingerprints": ["D3:18:6A:B6:A5:EC:71:35:2D:0E:54:B1:20:B0:57:FF:97:62:7D:B8:FA:83:6C:76:28:07:C8:7A:77:30:EF:E3"]
+        "package_name": "io.github.prsd503.owl",
+        "sha256_cert_fingerprints": ["E7:B5:65:35:7E:FC:00:22:4F:A8:58:C0:3B:99:A1:4F:AA:8F:E7:EB:F6:C2:75:49:07:66:1D:FC:F4:99:2A:19"]
       }
     },
 
