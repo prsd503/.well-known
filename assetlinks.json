@@ -17,6 +17,14 @@
         "sha256_cert_fingerprints": ["E7:B5:65:35:7E:FC:00:22:4F:A8:58:C0:3B:99:A1:4F:AA:8F:E7:EB:F6:C2:75:49:07:66:1D:FC:F4:99:2A:19"]
       }
     },
+{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "in.owl.jump",
+        "sha256_cert_fingerprints": ["EC:85:91:6D:E6:E1:0B:4A:80:0A:F4:9D:A5:25:0D:4E:4B:C2:8B:23:D1:1A:C2:EA:37:A6:38:30:C0:E6:C2:4E"]
+      }
+    },
 
   
   {
